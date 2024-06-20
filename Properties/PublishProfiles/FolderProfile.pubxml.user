@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\publish\EShop</_PublishTargetUrl>
+    <History>True|2024-06-06T20:19:20.4296957Z||;True|2024-06-06T22:17:01.8592967+02:00||;True|2024-06-06T22:16:35.1558752+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Properties/launchSettings.json">
+      <publishTime>06/06/2024 21:54:35</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
