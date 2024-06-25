@@ -250,3 +250,4 @@ C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\obj\Debug\net8.0\refint\e
 C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\obj\Debug\net8.0\eShopBackend.pdb
 C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\obj\Debug\net8.0\eShopBackend.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\obj\Debug\net8.0\ref\eShopBackend.dll
+C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\obj\Debug\net8.0\eShopBackend.sourcelink.json
