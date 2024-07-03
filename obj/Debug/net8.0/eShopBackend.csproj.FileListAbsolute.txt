@@ -251,3 +251,9 @@ C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\obj\Debug\net8.0\eShopBac
 C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\obj\Debug\net8.0\eShopBackend.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\obj\Debug\net8.0\ref\eShopBackend.dll
 C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\obj\Debug\net8.0\eShopBackend.sourcelink.json
+C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\source\repos\eShopBackend\eShopBackend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

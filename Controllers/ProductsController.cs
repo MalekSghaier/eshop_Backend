@@ -272,5 +272,7 @@ namespace eShopBackend.Controllers
                 return BadRequest($"Exception lors de la génération des produits : {ex.Message}");
             }
         }
+
+
     }
 }
